@@ -59,7 +59,7 @@ Score analysis (symbolic to symbolic)
 - [Karystinaios and Widmer](https://archives.ismir.net/ismir2023/paper/000070.pdf)
 
 Datasets
-- Amatov et al](https://archives.ismir.net/ismir2023/paper/000077.pdf) - music fragments paired with hummed versions
+- [Amatov et al.](https://archives.ismir.net/ismir2023/paper/000077.pdf) - music fragments paired with hummed versions
 - [Arthur et al.](https://archives.ismir.net/ismir2023/paper/000027.pdf) - melodic and harmonic transcriptions
 - [Hsiao et al.](https://archives.ismir.net/ismir2023/paper/000032.pdf) - repeated symbolic patterns
 - [Hu et al.](https://archives.ismir.net/ismir2023/paper/000034.pdf) - audio-symbolic aligned piano performances
