@@ -4,10 +4,14 @@ Transcription/pitch estimation (audio to symbolic)
 - [Krause et al.](https://archives.ismir.net/ismir2023/paper/000033.pdf)
 - [Perez et al.](https://archives.ismir.net/ismir2023/paper/000002.pdf)
 - [Riou et al.](https://archives.ismir.net/ismir2023/paper/000063.pdf)
+- [Shao et al.](https://archives.ismir.net/ismir2023/paper/000078.pdf)
 - [Tamer et al.](https://archives.ismir.net/ismir2023/paper/000025.pdf)
 - [Toyama et al.](https://archives.ismir.net/ismir2023/paper/000024.pdf)
 - [Zeitler et al.](https://archives.ismir.net/ismir2023/paper/000051.pdf)
 - [Zhuo et al.](https://archives.ismir.net/ismir2023/paper/000040.pdf)
+
+Score following/alignment (symbolic)
+- [Peter](https://archives.ismir.net/ismir2023/paper/000075.pdf)
 
 Generation (symbolic)
 - [Malandro](https://archives.ismir.net/ismir2023/paper/000037.pdf)
@@ -19,7 +23,8 @@ Generation (audio)
 - [Flores Garcia et al.](https://archives.ismir.net/ismir2023/paper/000042.pdf)
 - [Serra et al.](https://archives.ismir.net/ismir2023/paper/000035.pdf)
 
-Matching synthesizer to audio (audio to system settings)
+Sound matching (audio to synthesizer parameters)
+- [Barkan et al.](https://archives.ismir.net/ismir2023/paper/000076.pdf)
 - [Yang et al.](https://archives.ismir.net/ismir2023/paper/000021.pdf)
 
 Music modeling (symbolic)
@@ -54,6 +59,7 @@ Score analysis (symbolic to symbolic)
 - [Karystinaios and Widmer](https://archives.ismir.net/ismir2023/paper/000070.pdf)
 
 Datasets
+- Amatov et al](https://archives.ismir.net/ismir2023/paper/000077.pdf) - music fragments paired with hummed versions
 - [Arthur et al.](https://archives.ismir.net/ismir2023/paper/000027.pdf) - melodic and harmonic transcriptions
 - [Hsiao et al.](https://archives.ismir.net/ismir2023/paper/000032.pdf) - repeated symbolic patterns
 - [Hu et al.](https://archives.ismir.net/ismir2023/paper/000034.pdf) - audio-symbolic aligned piano performances
