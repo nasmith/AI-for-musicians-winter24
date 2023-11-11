@@ -14,6 +14,7 @@ Score following/alignment (symbolic)
 - [Peter](https://archives.ismir.net/ismir2023/paper/000075.pdf)
 
 Generation (symbolic)
+- [Bjare et al.](https://archives.ismir.net/ismir2023/paper/000096.pdf)
 - [Malandro](https://archives.ismir.net/ismir2023/paper/000037.pdf)
 - [Min et al.](https://archives.ismir.net/ismir2023/paper/000026.pdf)
 - [Van Kranenburg and Kearns](https://archives.ismir.net/ismir2023/paper/000046.pdf)
@@ -40,13 +41,16 @@ Music information retrieval (text and symbolic)
 - [Wu et al.](https://archives.ismir.net/ismir2023/paper/000017.pdf)
 
 Source separation (audio to audio)
+- [Nakano et al.](https://archives.ismir.net/ismir2023/paper/000100.pdf)
 - [Plaja-Roglans et al.](https://archives.ismir.net/ismir2023/paper/000065.pdf)
 
 Performance analysis (audio to symbolic)
+- [Alonso-Jimenez et al.](https://archives.ismir.net/ismir2023/paper/000098.pdf)
 - [Buisson et al.](https://archives.ismir.net/ismir2023/paper/000049.pdf)
 - [Cheng et al.](https://archives.ismir.net/ismir2023/paper/000055.pdf)
 - [Doh et al.](https://archives.ismir.net/ismir2023/paper/000048.pdf)
 - [Han et al.](https://archives.ismir.net/ismir2023/paper/000052.pdf)
+- [Krause et al.](https://archives.ismir.net/ismir2023/paper/000099.pdf)
 - [Ma et al.](https://archives.ismir.net/ismir2023/paper/000054.pdf)
 - [Morsi et al.](https://archives.ismir.net/ismir2023/paper/000041.pdf)
 - [Torres et al.](https://archives.ismir.net/ismir2023/paper/000053.pdf)
@@ -56,7 +60,9 @@ Score analysis (symbolic to symbolic)
 - [Couturier et al.](https://archives.ismir.net/ismir2023/paper/000060.pdf)
 - [Foscarin et al.](https://archives.ismir.net/ismir2023/paper/000049.pdf)
 - [Hajic et al.](https://archives.ismir.net/ismir2023/paper/000067.pdf)
+- [Miller et al.](https://archives.ismir.net/ismir2023/paper/000103.pdf)
 - [Karystinaios and Widmer](https://archives.ismir.net/ismir2023/paper/000070.pdf)
+- [Zhang et al.](https://archives.ismir.net/ismir2023/paper/000101.pdf)
 
 Datasets
 - [Amatov et al.](https://archives.ismir.net/ismir2023/paper/000077.pdf) - music fragments paired with hummed versions
@@ -73,5 +79,7 @@ Ethics
 - [Morreale et al.](https://archives.ismir.net/ismir2023/paper/000003.pdf)
 
 Resources and Tools
+- [Carriero et al.](https://archives.ismir.net/ismir2023/paper/000102.pdf) meta ontology 
 - [Hentschel et al.](https://archives.ismir.net/ismir2023/paper/000061.pdf) [DiMCAT](https://github.com/DCMLab/dimcat)
+- [Lewis et al.](https://archives.ismir.net/ismir2023/paper/000094.pdf) tools for dataset curation
 - [Moises](https://moises.ai/) commercial application
