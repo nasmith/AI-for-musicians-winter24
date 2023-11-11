@@ -3,7 +3,7 @@ Transcription/pitch estimation (audio to symbolic)
 - [Kim et al.](https://archives.ismir.net/ismir2023/paper/000062.pdf)
 - [Krause et al.](https://archives.ismir.net/ismir2023/paper/000033.pdf)
 - [Perez et al.](https://archives.ismir.net/ismir2023/paper/000002.pdf)
-- [Riou et al.](https://archives.ismir.net/ismir2023/paper/000063.pdf)
+- [Riou et al.](https://archives.ismir.net/ismir2023/paper/000063.pdf) - ISMIR 2023 best paper award
 - [Shao et al.](https://archives.ismir.net/ismir2023/paper/000078.pdf)
 - [Tamer et al.](https://archives.ismir.net/ismir2023/paper/000025.pdf)
 - [Toyama et al.](https://archives.ismir.net/ismir2023/paper/000024.pdf)
@@ -38,7 +38,7 @@ Optical music recognition (images to symbolic)
 
 Music information retrieval (text and symbolic)
 - [Ferraro et al.](https://archives.ismir.net/ismir2023/paper/000044.pdf)
-- [Wu et al.](https://archives.ismir.net/ismir2023/paper/000017.pdf)
+- [Wu et al.](https://archives.ismir.net/ismir2023/paper/000017.pdf) - ISMIR 2023 best student paper award
 
 Source separation (audio to audio)
 - [Nakano et al.](https://archives.ismir.net/ismir2023/paper/000100.pdf)
@@ -76,8 +76,7 @@ Datasets
 
 Ethics
 - [Dinnisson and Bauer](https://archives.ismir.net/ismir2023/paper/000057.pdf)
-- [Morreale et al.](https://archives.ismir.net/ismir2023/paper/000003.pdf)
-
+- [Morreale et al.](https://archives.ismir.net/ismir2023/paper/000003.pdf) - ISMIR 2023 responsible AI award
 Resources and Tools
 - [Carriero et al.](https://archives.ismir.net/ismir2023/paper/000102.pdf) meta ontology 
 - [Hentschel et al.](https://archives.ismir.net/ismir2023/paper/000061.pdf) [DiMCAT](https://github.com/DCMLab/dimcat)
