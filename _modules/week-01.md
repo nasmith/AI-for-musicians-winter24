@@ -3,4 +3,4 @@ title: Introduction
 ---
 
 Jan 4
-: [Intro to the course](#)
+: Intro to the course
