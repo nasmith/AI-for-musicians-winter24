@@ -27,7 +27,8 @@ Class meetings will be comprised mainly of (1) seminar-style discussions of pape
 ## Resources
 
 - [Ed discussion board](https://edstem.org/us/courses/50885/discussion/)
-[- Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
+- [Links to papers from ISMIR 2023 organized by topic](https://nasmith.github.io/AI-for-musicians-winter24/ismir23/)
+- [Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
 
 
 
