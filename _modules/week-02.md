@@ -1,5 +1,5 @@
 ---
-title: Topic 1:  Music Performance Analysis
+title: Topic 1 - Music Performance Analysis
 ---
 
 Jan 9
