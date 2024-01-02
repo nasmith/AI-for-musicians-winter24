@@ -22,12 +22,13 @@ Recent advances in AI (including the versatile transformer neural network archit
 
 ## Class Meetings
 
-Class meetings will be comprised of (1) presentation and presenter-led discussion of assigned readings, (2) project updates by student teams, and (3) guest lectures.
+Class meetings will be comprised mainly of (1) seminar-style discussions of papers read by participants on assigned topics, and (2) project updates by student teams.
 
 ## Resources
 
-[Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
+- [Ed discussion board](https://edstem.org/us/courses/50885/discussion/)
+[- Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
 
-## Evaluation
+
 
 
