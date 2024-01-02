@@ -24,13 +24,7 @@ Recent advances in AI (including the versatile transformer neural network archit
 
 Class meetings will be comprised mainly of (1) seminar-style discussions of papers read by participants on assigned topics, and (2) project updates by student teams.
 
-## Resources
 
-- [Ed discussion board](https://edstem.org/us/courses/50885/discussion/)
-- [Form to report on papers you read](https://docs.google.com/forms/d/e/1FAIpQLSeyRSVqkMLdcV3qOaBzO6fmFOKG0l-QF8p0tyf4U88mg2aY_w/viewform)
-- [Folder for lists of papers you're considering](https://drive.google.com/drive/folders/1CVEQnPxVkI0ozd4TLZg6-Hd3Ny_4AYer?usp=drive_link)
-- [Links to papers from ISMIR 2023 organized by topic](https://nasmith.github.io/AI-for-musicians-winter24/ismir23/)
-- [Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
 
 
 
