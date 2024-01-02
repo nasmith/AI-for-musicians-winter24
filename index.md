@@ -25,8 +25,14 @@ seo:
 
 ## Useful Links
 
+- [Instructions on the seminar component of the course](https://docs.google.com/document/d/1CBvGDv_P7EUHHDsKOh2kZangzLj61aNInrx80jiKIek/edit?usp=sharing)
+- [Instructions on the team project component of the course](https://docs.google.com/document/d/197bJx7IOE_VGGcke7RsGjMY4sgMWoa5KvslMeb0iogs/edit?usp=sharing)
 - [Ed discussion board](https://edstem.org/us/courses/50885/discussion/)
   for registered participants
+- [Form to report on papers you read](https://docs.google.com/forms/d/e/1FAIpQLSeyRSVqkMLdcV3qOaBzO6fmFOKG0l-QF8p0tyf4U88mg2aY_w/viewform)
+- [Folder for lists of papers you're considering](https://drive.google.com/drive/folders/1CVEQnPxVkI0ozd4TLZg6-Hd3Ny_4AYer?usp=drive_link)
+- [Links to papers from ISMIR 2023 organized by topic](https://nasmith.github.io/AI-for-musicians-winter24/ismir23/)
+- [Tutorial on fundamentals of music processing (2019), with Python notebooks](https://www.audiolabs-erlangen.de/resources/MIR/2019_TutorialFMP_ISMIR/) 
 - This course's [Canvas page](https://canvas.uw.edu/courses/1696049)
 - [Request a private follow-up from course staff](https://forms.gle/5eajeXB6XMRPS5aA9) 
 
