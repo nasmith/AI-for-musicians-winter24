@@ -20,7 +20,8 @@ seo:
 ## Coordinates
 - Lectures are Tuesdays and Thursdays, 11:30am to 12:50pm, in [Gates](https://www.washington.edu/classroom/CSE2+G01) G01.
 - Noah's office hours will be Tuesdays 1-2pm in CSE 588. 
-- Teaching Assistant office hours will be announced soon.
+- Victoria's office hours will be Thursdays 1-2pm (location TBD).
+- Mek's office hours are TBD.
 - Remember that you can always [request an appointment](https://nasmith.github.io/AI-for-musicians-winter24/followup/) if the scheduled office hours don't work for you.
 
 ## Useful Links
