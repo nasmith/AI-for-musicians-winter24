@@ -22,7 +22,7 @@ seo:
 - Noah's office hours will be Tuesdays 1-2pm in CSE 588. 
 - Victoria's office hours will be Thursdays 1-2pm in CSE 678.
 - Mek's office hours are TBD.
-- Remember that you can always [request an appointment](https://nasmith.github.io/AI-for-musicians-winter24/followup/) if the scheduled office hours don't work for you.
+- Remember that you can always [request an appointment](https://forms.gle/5eajeXB6XMRPS5aA9) if the scheduled office hours don't work for you.
 
 ## Useful Links
 
