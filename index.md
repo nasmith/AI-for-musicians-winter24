@@ -26,6 +26,7 @@ seo:
 
 ## Useful Links
 
+- [Beginning of quarter survey (fill out on by 1/5)](https://forms.gle/LcuHfGSUyrcFcahc6)
 - [Instructions on the seminar component of the course](https://docs.google.com/document/d/1CBvGDv_P7EUHHDsKOh2kZangzLj61aNInrx80jiKIek/edit?usp=sharing)
   - [Folder for lists of papers you're considering](https://drive.google.com/drive/folders/1CVEQnPxVkI0ozd4TLZg6-Hd3Ny_4AYer?usp=drive_link)
   - [Form to report on papers you read](https://docs.google.com/forms/d/e/1FAIpQLSeyRSVqkMLdcV3qOaBzO6fmFOKG0l-QF8p0tyf4U88mg2aY_w/viewform)
