@@ -21,7 +21,7 @@ seo:
 - Lectures are Tuesdays and Thursdays, 11:30am to 12:50pm, in [Gates](https://www.washington.edu/classroom/CSE2+G01) G01.
 - Noah's office hours will be Tuesdays 1-2pm in CSE 588. 
 - Victoria's office hours will be Thursdays 1-2pm in CSE 678.
-- Mek's office hours are TBD.
+- Mek's office hours will Fridays 11am-12pm in CSE 220.
 - Remember that you can always [request an appointment](https://forms.gle/5eajeXB6XMRPS5aA9) if the scheduled office hours don't work for you.
 
 ## Useful Links
