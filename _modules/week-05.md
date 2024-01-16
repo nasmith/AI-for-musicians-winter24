@@ -1,5 +1,5 @@
 ---
-title: Topic 3 - TBD
+title: Topic 3 - Synchronization
 ---
 
 Jan 30-Feb 1
